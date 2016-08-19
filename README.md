@@ -1,9 +1,9 @@
 ## How to Use
-Add `hyperterm-grayula` to plugins in `~/.hyperterm.js`.
+Add `hyperterm-dracula` to plugins in `~/.hyperterm.js`.
 
 `~/.hyperterm.js`:
 ```js
 plugins: [
-  'hyperterm-grayula'
+  'hyperterm-dracula'
 ]
 ```
