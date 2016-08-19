@@ -1,8 +1,8 @@
 ## Grayula
 
-A dark gray version of [Dracula](https://draculatheme.com/).
+A dark gray version of the Dracula theme.
 
-![screenshot](grayula.png)
+![screenshot](https://github.com/jdsimcoe/hyperterm-grayula/raw/master/grayula.png)
 
 ## Usage
 
