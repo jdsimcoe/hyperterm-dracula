@@ -1,22 +1,22 @@
 // Constants
-const backgroundColor = '#292A2B';
-const foregroundColor = '#E6E6E6';
-const darkerBackground = 'rgba(0, 0, 0, 0.2)';
+const backgroundColor = '#282a36';
+const foregroundColor = '#f8f8f2';
+const darkerBackground = '#21232d';
 const borderColor = '#333';
 
 // Colors
-const RED = '#FF2C6D';
-const GREEN = '#19f9d8';
-const ORANGE = '#FFB86C';
+const RED = '#ff5555';
+const GREEN = '#50fa7b';
+const ORANGE = '#ffb86c';
 const LIGHT_ORANGE = '#ffcc95';
-const BLUE = '#45A9F9';
-const LIGHT_BLUE = '#6FC1FF';
-const PINK = '#FF75B5';
+const BLUE = '#6272a4';
+const LIGHT_BLUE = '#7384b9';
+const PINK = '#ff79c6';
 const LIGHT_PINK = '#FF9AC1';
-const CYAN = '#6FC1FF';
-const PURPLE = '#B084EB';
+const CYAN = '#8be9fd';
+const PURPLE = '#bd93f9';
 const LIGHT_GRAY = foregroundColor;
-const MEDIUM_GRAY = '#676B79';
+const MEDIUM_GRAY = '#666666';
 const WHITE = '#FFFFFF';
 
 const colors = {
