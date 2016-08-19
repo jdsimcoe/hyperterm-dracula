@@ -1,4 +1,4 @@
-## ⌨️ How to Use
+## How to Use
 Add `hyperterm-grayula` to plugins in `~/.hyperterm.js`.
 
 `~/.hyperterm.js`:
