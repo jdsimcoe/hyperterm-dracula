@@ -1,7 +1,7 @@
 // Constants
-const backgroundColor = '#282a36';
+const backgroundColor = '#292A2B';
 const foregroundColor = '#f8f8f2';
-const darkerBackground = '#21232d';
+const darkerBackground = '#222324';
 const borderColor = '#333';
 
 // Colors
